@@ -91,6 +91,7 @@
   .close-account-box {
     margin: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
     border: solid black 1px;
     font-size: 12px;
     width: 80%;
