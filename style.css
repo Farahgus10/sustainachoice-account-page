@@ -50,9 +50,15 @@
   
   .about-you {
     background: lightgrey;
+    text-align: center;
     margin-top: 0px;
   }
-  
+
+
+  .edit {
+    float: right;
+  }
+
   .right-box {
     margin: auto;
     margin-top: 20px;
